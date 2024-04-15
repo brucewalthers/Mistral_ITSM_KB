@@ -1,0 +1,94 @@
+"ServiceNow Performance Degradation Troubleshooting steps for addressing performance degradation in ServiceNow If you're experiencing performance degradation in ServiceNow, consider the following troubleshooting steps:
+
+1. Check system resource utilization, including CPU, memory, and disk usage.
+2. Identify any recent changes or updates that may have contributed to the performance issue.
+3. Review the application logs for any errors or warnings related to performance.
+4. Evaluate the performance of database queries and identify any long-running or inefficient queries.
+5. Consider optimizing configurations such as caching, indexing, and background processing.
+6. Monitor performance metrics over time to identify patterns or trends.
+
+If performance issues persist, escalate the issue to the ServiceNow support team for further investigation."
+"ServiceNow Instance Unavailable Steps to troubleshoot and resolve instances becoming unavailable in ServiceNow If your ServiceNow instance becomes unavailable, follow these steps to troubleshoot and resolve the issue:
+
+1. Check the status of the ServiceNow instance by accessing the instance URL.
+2. Verify network connectivity to the ServiceNow instance from your location.
+3. Review the instance status page in the ServiceNow Admin UI for any reported issues.
+4. Check for any scheduled maintenance or downtime communicated by the ServiceNow team.
+5. If the issue persists, contact ServiceNow support for assistance in resolving the availability issue."
+"ServiceNow Integration Failure Guidance for troubleshooting integration failures with ServiceNow When facing integration failures with ServiceNow, follow these steps to diagnose and resolve the issue:
+
+1. Verify the configuration settings for the integration, including credentials and endpoints.
+2. Check the integration logs for any error messages or failed transactions.
+3. Review recent changes to the integration configuration or underlying systems.
+4. Test the integration with sample data to isolate the problem.
+5. Ensure that the integration endpoints are accessible and responsive.
+
+If troubleshooting steps do not resolve the integration failure, engage with the relevant integration team or ServiceNow support for further assistance."
+"ServiceNow UI Error Instructions for resolving common UI errors encountered in ServiceNow Encountering UI errors in ServiceNow can be frustrating. Follow these steps to troubleshoot and resolve common UI issues:
+
+1. Refresh the browser page to see if the error persists.
+2. Clear browser cache and cookies, then attempt to reproduce the error.
+3. Verify that the UI error is not caused by a misconfiguration or customization.
+4. Check the ServiceNow system status page for any reported UI-related incidents.
+5. If the issue persists, consider reaching out to ServiceNow support for further assistance in diagnosing and resolving the UI error."
+"ServiceNow Email Notification Not Working Troubleshooting steps for addressing email notification failures in ServiceNow When email notifications fail to work in ServiceNow, try the following troubleshooting steps:
+
+1. Check the email configuration settings in ServiceNow, including SMTP server details.
+2. Verify that the recipient email addresses are correctly configured and active.
+3. Review the email notification scripts for any errors or misconfigurations.
+4. Check the email logs in ServiceNow for any reported delivery failures.
+5. Test email notifications with sample data to verify functionality.
+
+If email notification issues persist, escalate the problem to ServiceNow support for further investigation and resolution."
+"ServiceNow LDAP Authentication Failure Steps to troubleshoot and resolve LDAP authentication failures in ServiceNow If LDAP authentication fails in ServiceNow, follow these steps to diagnose and fix the issue:
+
+1. Verify LDAP server connectivity from the ServiceNow instance.
+2. Check LDAP configuration settings in ServiceNow, including server address and credentials.
+3. Review LDAP server logs for any authentication errors or connection issues.
+4. Test LDAP authentication with a known user account to isolate the problem.
+5. Consider reaching out to the LDAP server administrators for assistance if necessary.
+
+If LDAP authentication issues persist, contact ServiceNow support for further guidance and troubleshooting."
+"ServiceNow LDAP Authentication Failure Steps to troubleshoot and resolve LDAP authentication failures in ServiceNow If LDAP authentication fails in ServiceNow, follow these steps to diagnose and fix the issue:
+
+1. Verify LDAP server connectivity from the ServiceNow instance.
+2. Check LDAP configuration settings in ServiceNow, including server address and credentials.
+3. Review LDAP server logs for any authentication errors or connection issues.
+4. Test LDAP authentication with a known user account to isolate the problem.
+5. Consider reaching out to the LDAP server administrators for assistance if necessary.
+
+If LDAP authentication issues persist, contact ServiceNow support for further guidance and troubleshooting."
+"ServiceNow Outage Incident Response Guidance for responding to ServiceNow outages and restoring services In the event of a ServiceNow outage, follow these steps to respond and restore services:
+
+1. Quickly assess the impact and scope of the outage.
+2. Notify relevant stakeholders, including users and IT support teams.
+3. Engage with ServiceNow support to report the outage and receive updates on resolution efforts.
+4. Communicate regularly with affected users regarding the status of the outage and expected resolution time.
+5. Implement workaround solutions if possible to minimize disruption.
+
+After the outage is resolved, conduct a post-incident review to identify root causes and implement preventive measures."
+"ServiceNow Upgrade Failure Steps to troubleshoot and recover from a failed ServiceNow upgrade If a ServiceNow upgrade fails, follow these steps to troubleshoot and recover:
+
+1. Review upgrade logs to identify the cause of the failure.
+2. Check system requirements and compatibility for the upgrade version.
+3. Roll back changes if necessary to restore the previous working state.
+4. Engage with ServiceNow support for assistance in diagnosing and resolving upgrade issues.
+5. Plan and schedule a new upgrade attempt after addressing any identified issues.
+
+Ensure proper testing and validation before proceeding with a new upgrade to minimize the risk of failure."
+"ServiceNow Scripting Error Troubleshooting steps for addressing scripting errors in ServiceNow When encountering scripting errors in ServiceNow, follow these steps to troubleshoot and resolve the issue:
+
+1. Review the script where the error occurred for syntax errors or typos.
+2. Check script execution context and variables for any unexpected values.
+3. Use debugging tools and logs to trace the execution flow and identify the cause of the error.
+4. Test the script with different inputs to reproduce the error.
+5. Consider reaching out to ServiceNow community forums or support for assistance in resolving complex scripting errors."
+"ServiceNow Scheduled Job Failure Guidance for troubleshooting and resolving failures in scheduled jobs on ServiceNow When scheduled jobs fail to run or complete on ServiceNow, try the following troubleshooting steps:
+
+1. Check scheduled job logs for any reported errors or exceptions.
+2. Verify the configuration settings for the scheduled job, including frequency and parameters.
+3. Review system resource utilization during scheduled job execution to identify any bottlenecks.
+4. Test the scheduled job manually to verify functionality.
+5. Consider adjusting scheduling settings or optimizing job execution to prevent future failures.
+
+If troubleshooting steps do not resolve the issue, contact ServiceNow support for further assistance and resolution."
